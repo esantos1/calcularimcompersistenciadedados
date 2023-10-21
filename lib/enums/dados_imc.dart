@@ -1,0 +1,1 @@
+enum DadosImc { nome, altura }
